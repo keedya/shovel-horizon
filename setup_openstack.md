@@ -64,7 +64,7 @@
   ```
 - Configure network Interface (assuming port eth2 is used to connect openstack to rackHD)
  
-![alt text](https://github.com/keedya/Shovel-horizon/blob/master/Shovel/snapshot/dev_config.PNG)
+![alt text](https://github.com/keedya/Shovel/blob/master/snapshot/dev_config.PNG)
 
 - cat>>/etc/network/interfaces
   ```python
